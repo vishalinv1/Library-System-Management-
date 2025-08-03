@@ -66,3 +66,5 @@ By: Pradnyankur Nikam (YouTube)
 A big thanks to the creator for the structured and beginner-friendly PostgreSQL explanation!
 
 ERD (Entity Relationship Diagram) 
+
+<img width="1378" height="929" alt="Screenshot 2025-08-03 122118" src="https://github.com/user-attachments/assets/fd88a0ab-6456-4763-899d-334777918f27" />
