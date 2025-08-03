@@ -43,7 +43,7 @@ This project demonstrates the use of relational databases with real-world schema
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/vishalinv1/Library-System-Management.git
+   git clone https://github.com/vishalinv1/Library-System-Management-
 
 
 ##📌 Key Concepts Covered
